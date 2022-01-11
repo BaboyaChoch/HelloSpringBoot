@@ -4,14 +4,15 @@ Code from following along with Java Brains' [Spring Boot Quick Start](https://ww
 
 
 # Lessons Learned
- -  Multiple ways to bootstrap a **Spring Boot** Application
+ -  Multiple ways to bootstrap a **Spring Boot** application
  -  What is **Maven**
- -  What is Pom.xml
+ -  What is pom.xml
  -  Configuring a Spring project with application.properties
  -  What is ...
     -   **Spring**
     -   **Spring MVC**
     -   **Spring Data JPA**
+    -   **Spring Actuator**
  -  Utilizing **Postman** to test an API
  -  What are and how to use multiple annotations 
     -  @RestController
@@ -24,3 +25,4 @@ Code from following along with Java Brains' [Spring Boot Quick Start](https://ww
     -  @Id
     -  @ManyToOne
  - Workflow utilizing **Eclipse** + **Spring Tool Suite** 
+ - How to package and run a Spring applicaton
